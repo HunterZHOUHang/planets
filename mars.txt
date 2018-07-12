@@ -4,6 +4,10 @@ But the Mummy will appreciate the lack of humidity
 We added a different line in the other copCold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 All ill-considered change.
 We will need to manufacture our own oxygen.
 
+=======
+This line added to Wolfman's copy
+>>>>>>> db33a71d9a5acb2dfca8cbcad15d430a36c2a48f
